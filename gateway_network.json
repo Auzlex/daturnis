@@ -27,11 +27,38 @@
     {
       "Name": "Orl\u00edn",
       "Area": "Neso",
-      "Description": "Remnant temple floating in the sky by an advanced race",
+      "Description": "????",
       "Disabled": true,
       "DisabledReason": "Unknown",
       "world_id": "RUJeUW8KBV1sAFYHCh1cbkltemA5ZHB7JXhxb29pAV5jb34nZAElKAA",
       "address": "AQQEBAUEdQ"
+    },
+    {
+      "Name": "Intermission",
+      "Area": "Unknown",
+      "Description": "They never stopped\u2026 I woke here, between something lost and something coming.",
+      "Disabled": true,
+      "DisabledReason": "Unknown",
+      "world_id": "RUJeUW8DCA5lAwYCAB1ebBhqemBqMH17fyp8YG9sVgpgayR2YFVwewI",
+      "address": "BQYKBAQDdQ"
+    },
+    {
+      "Name": "Looming",
+      "Area": "Unknown",
+      "Description": "It followed me in silence\u2026 always above, always waiting. I touched the silence, and it opened.",
+      "Disabled": true,
+      "DisabledReason": "Unknown",
+      "world_id": "RUJeUW9QAQ9hUwACVx0Ib0huemBoYHV7Jn4sMm9uAV1mbnZ3Z1B1LwM",
+      "address": "CgQDAwUBdQ"
+    },
+    {
+      "Name": "Mirage",
+      "Area": "Unknown",
+      "Description": "They move like they remember. I don't know what they're looking for.",
+      "Disabled": true,
+      "DisabledReason": "Unknown",
+      "world_id": "RUJeUW8CUl03CVVSBR1ZPh5oemA8YCd7f3p-Ym9pAwhgOSMlMQlyfAQ",
+      "address": "AwgFAAMFdQ"
     }
   ]
 }
