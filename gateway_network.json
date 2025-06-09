@@ -1,0 +1,37 @@
+{
+  "gateway_network": [
+    {
+      "Disabled": true,
+      "DisabledReason": "Unknown"
+    }
+  ],
+  "addresses": [
+    {
+      "Name": "Lun",
+      "Area": "Unknown",
+      "Description": "Daturnis Origins",
+      "Disabled": false,
+      "DisabledReason": "Unknown",
+      "world_id": "RUJeUW8FAA02BwYABx0NPhttemBoZHN7JXx4ZG8_AQplaCMmNQkkLVQ",
+      "address": "BwkDAwgBdQ"
+    },
+    {
+      "Name": "Solenn",
+      "Area": "Neso",
+      "Description": "A dark refuge under the distant glow of the planet",
+      "Disabled": false,
+      "DisabledReason": "Unknown",
+      "world_id": "RUJeUW9SU1o1U1BSUFMVax9rY3lvZHNuaisrNSB3Vl43PiAlNlchL1Y0",
+      "address": "CwUGAwMEdQ"
+    },
+    {
+      "Name": "Orl\u00edn",
+      "Area": "Neso",
+      "Description": "Remnant temple floating in the sky by an advanced race",
+      "Disabled": true,
+      "DisabledReason": "Unknown",
+      "world_id": "RUJeUW8KBV1sAFYHCh1cbkltemA5ZHB7JXhxb29pAV5jb34nZAElKAA",
+      "address": "AQQEBAUEdQ"
+    }
+  ]
+}
