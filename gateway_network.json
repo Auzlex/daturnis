@@ -1,8 +1,8 @@
 {
   "gateway_network": [
     {
-      "Disabled": false,
-      "DisabledReason": "Unknown"
+      "Disabled": true,
+      "DisabledReason": "I see you there, in solenn 3 echoes in my creation. It is not ready for you."
     }
   ],
   "addresses": [
