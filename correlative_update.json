@@ -20,7 +20,7 @@
       "disablePaths": [
         "VRCPortalMarker (SCRIPT)/PortalInternal(Clone)/Portal Cosmetics Handler"
       ],
-      "disableChildNameContains": ["Cosmetics", "CLElements"]
+      "disableChildNameContains": ["Cosmetics", "CLElements", "Canvas"]
     }
   ]
 }
