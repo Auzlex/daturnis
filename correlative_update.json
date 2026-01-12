@@ -1,8 +1,8 @@
 {
   "selfCollider": {
     "enabled": true,
-    "center": [0,0.5,0],
-    "size": [2,2,2],
+    "center": [0,0,0],
+    "size": [10,10,10],
     "localPosition": [0,0,0]
   },
   "triggerDefaults": {
