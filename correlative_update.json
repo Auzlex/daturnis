@@ -1,3 +1,8 @@
 {
-
+  "disable": [
+    {
+      "path": "VRCPortalMarker (SCRIPT)/PortalInternal(Clone)/Portal Cosmetics Handler",
+      "keepTryingUntilSuccessful": true
+    }
+  ]
 }
