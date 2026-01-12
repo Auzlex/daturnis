@@ -15,7 +15,7 @@
       "matchMode": "contains",
       "onEnter": true,
       "onExit": false,
-      "ignoreCollision": true,
+      "ignoreCollision": false,
       "dumpDetectedHierarchy": true,
       "disablePaths": [
         "VRCPortalMarker (SCRIPT)/PortalInternal(Clone)/Portal Cosmetics Handler"
